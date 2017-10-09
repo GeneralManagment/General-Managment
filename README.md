@@ -1,2 +1,2 @@
-# General-Managment
-General Property Managment
+# General-Management
+General Property Management
